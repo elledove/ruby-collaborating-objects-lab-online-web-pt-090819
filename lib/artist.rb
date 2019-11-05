@@ -34,7 +34,8 @@ class Artist
     self.all.find {|artist| name == artist.name }
   end
   
-  
+  def self.create(name)
+  end
   
   
   
