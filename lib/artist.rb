@@ -13,7 +13,7 @@ class Artist
   end
   
   def songs
-    binding.pry
+    #binding.pry
     #Song.all.collect do |song|
       #song.name == self
     #end
