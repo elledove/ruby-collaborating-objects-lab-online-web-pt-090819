@@ -17,5 +17,5 @@ class Artist
     
     end
     
-    
+    def 
 end
